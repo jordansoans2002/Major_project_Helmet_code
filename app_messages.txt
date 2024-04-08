@@ -4,7 +4,7 @@ app -> helmet
     turn on wifi when user  selects helmet to pair with
     as soon as bt connection is ready send ssid and pw
 
-  create tcp socket to start recording -no message just create a socket
+  create tcp socket to start recording - cmd:START_RECORDING
     after start journey is pressed
     save recording to external file and process later
 
